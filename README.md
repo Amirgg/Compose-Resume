@@ -13,5 +13,6 @@ Feel free to add more components and styles.
 Let me know if you have any suggestions!
 
 ---
-![image](https://github.com/user-attachments/assets/bd1d7799-efc8-44fc-9b8a-4b2ba4b11be7)
+
+![Resume](https://github.com/user-attachments/assets/cc54b28a-7960-4828-8a98-8b5315d570ea)
 
