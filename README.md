@@ -6,7 +6,7 @@
 - Your resume is ready!
 
 ---
-Colors and font size are easily configurable.
+Colors and font sizes are easily configurable.
 
 Feel free to add more components and styles.
 
@@ -14,5 +14,6 @@ Let me know if you have any suggestions!
 
 ---
 
-![Resume](https://github.com/user-attachments/assets/cc54b28a-7960-4828-8a98-8b5315d570ea)
+![Resume](https://github.com/user-attachments/assets/02f1886c-2d87-400c-9cb4-1d218abb39ae)
+
 
